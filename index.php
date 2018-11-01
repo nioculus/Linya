@@ -67,7 +67,7 @@
           <h1 class="mx-auto my-0 text-uppercase">Linya</h1>
           <h2 class="text-white mx-auto mt-2 mb-5" style="font-size: 30px;">A Mobile-Based E-Learning Drawing Application with Augmented Reality for kids.</h2>
             <form>
-          <button class="btn btn-primary js-scroll-trigger" style="font-size: 30px;">Download</button>
+          <a href="Linya.apk" download><button class="btn btn-primary js-scroll-trigger" style="font-size: 30px;">Download</button></a>
             <br>
             <div style="color: white; font-size: 1.3rem;">
                 <input type="checkbox" id="myCheck" name="test" required> I Agree to <a href="#!" id="btn-terms" class="a1 btn-terms f-text-center" style="font-size: 1.3rem;">Terms &amp; Conditions</a>

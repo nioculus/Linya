@@ -1,0 +1,21 @@
+.btn {
+  box-shadow: 0 .1875rem .1875rem 0 rgba(0,0,0,.1) !important;
+  font-family: 'Pencil Sharp';
+  text-transform: uppercase;
+  letter-spacing: .15rem;
+  border: 0;
+}
+
+.btn-primary {
+  background-color: $primary;
+  &:hover {
+    background-color: darken($primary, 10%);
+  }
+  &:focus {
+    background-color: darken($primary, 10%);
+    color: white;
+  }
+  &:active {
+    background-color:  ($primary, 15%) !important;
+  }
+}

@@ -324,7 +324,7 @@ function showDivs(n) {
     <script src="bootstrap.bundle.min.js"></script>
 
     <!-- Plugin JavaScript -->
-    <script src="vendor/jquery-easing/jquery.easing.min.js"></script>
+    <script src="jquery.easing.min.js"></script>
 
     <!-- Custom scripts for this template -->
     <script src="linya.js"></script>

@@ -328,7 +328,7 @@ function showDivs(n) {
     <script src="vendor/jquery-easing/jquery.easing.min.js"></script>
 
     <!-- Custom scripts for this template -->
-    <script src="js/linya.js"></script>
+    <script src="linya.js"></script>
 
   </body>
 

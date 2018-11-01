@@ -71,8 +71,7 @@
             <br>
             <div style="color: white; font-size: 1.3rem;">
                 <input type="checkbox" id="myCheck" name="test" required> I Agree to <a href="#!" id="btn-terms" class="a1 btn-terms f-text-center" style="font-size: 1.3rem;">Terms &amp; Conditions</a>
-                <br>
-                <a href="#!" id="btn-terms" class="a1 btn-terms f-text-center" style="font-size: 1.3rem;">How to Download</a>
+                
             </div>
                 </form>
         </div>

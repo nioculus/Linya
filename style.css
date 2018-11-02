@@ -393,6 +393,18 @@ footer {
     color: #ffffff;
   background-color: transparent !important;
 }
+.btn-terms1 {
+  background-color: transparent;
+}
+
+.btn-terms1:hover {
+    color: #D26901;
+  background-color:  transparent;
+}
+.btn-terms1:active {
+    color: #ffffff;
+  background-color: transparent !important;
+}
 .btn-policy{
   background-color: transparent;
 }

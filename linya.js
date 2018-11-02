@@ -58,5 +58,6 @@ var btnTerms=$("#btn-terms");var btnTermsOnNav=$("#btnTC");var btnCloseTerms=$("
       }
 
   }
+  var btnTerms1=$("#btn-terms1");var btnTerms1OnNav=$("#btnTC1");var btnCloseTerms1=$("#terms1-btn-close");btnTerms1.click(function(){$("#terms1").height("100%");$("#mainNavContent").removeClass("show");$('html,body').animate({scrollTop:0},700)});btnTerms1OnNav.click(function(){$("#terms1").height("100%");$("#mainNavContent").removeClass("show");$('html,body').animate({scrollTop:0},700)});btnCloseTerms1.click(function(){$("#terms1").height("0%")});
     
 })(jQuery); // End of use strict

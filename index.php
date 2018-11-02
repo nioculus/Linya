@@ -275,6 +275,26 @@ function showDivs(n) {
         Copyright &copy; 2018 Linya
       </div>
     </footer>
+	  <div id="terms" class="overlay-container">
+			<h3 id="terms-btn-close" class="overlay-btn-close btn-policy">&times;</h3>
+			<div class="overlay-content o-px">
+				<div class="container">
+					<div class="row">
+						<h1 class="overlay-header header-primary-text mx-auto text-center">Terms &amp; Conditions</h1>
+                        <div class="line-shape1"></div>
+						<p class="lead text-left" style="padding-top: 2rem;">
+                            •	General Condition – nobody can transmit any worms or viruses or any code that can destruct and harm the system. A breach or violation of any of the Terms will result in an immediate termination of your use in our system. We reserve the right to refuse service to anyone for any reason at any time. 
+						</p>
+						<p class="lead text-left">
+                            •	Education and Decisions – by using our system, you agree that LINYA is not to be held liable for any decisions you make based on any of our services or guidance and any consequences, as a result, are your own. Under no circumstances can you hold LINYA liable for any actions you take nor can you hold us liable for any loss or costs incurred by you as a result of any guidance, advice, coaching, materials or techniques used or provided by the system.
+                        </p>
+                        <p class="lead text-left">
+                            •	Contact Information – for any concern and problem, you may contact us at info.linya@gmail.com.
+                        </p>	
+					</div>
+				</div>
+			</div>
+		</div>
       <div id="terms1" class="overlay-container">
 			<h3 id="terms1-btn-close" class="overlay-btn-close btn-policy">&times;</h3>
 			<div class="overlay-content o-px">

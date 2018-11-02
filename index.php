@@ -275,7 +275,7 @@ function showDivs(n) {
         Copyright &copy; 2018 Linya
       </div>
     </footer>
-      <div id="terms" class="overlay-container">
+      <div id="terms1" class="overlay-container">
 			<h3 id="terms1-btn-close" class="overlay-btn-close btn-policy">&times;</h3>
 			<div class="overlay-content o-px">
 				<div class="container">

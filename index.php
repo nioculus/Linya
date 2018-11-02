@@ -17,7 +17,7 @@
     <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 
     <!-- Custom fonts for this template -->
-    <link href="all.min.css" rel="stylesheet">
+    <link href="all.css" rel="stylesheet">
 
     <!-- Custom styles for this template -->
     <link href="style.css" rel="stylesheet">

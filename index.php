@@ -264,7 +264,7 @@ function showDivs(n) {
     <footer class="bg-black small mx-auto text-center text-white">
         <div class="container">
          <div class="row" style="padding-left: 33%">
-                <a href="#!" id="btn-terms" class="btn-terms f-text-center" style="font-size: 1.8rem;">Terms &amp; Conditions</a>
+                <a href="#!" id="btn-terms1" class="btn-terms f-text-center" style="font-size: 1.8rem;">Terms &amp; Conditions</a>
                 <p style="font-size: 2rem;">&nbsp|&nbsp</p>
                 <a href="#!" id="btn-policy" class="btn-policy f-text-center" style="font-size: 1.8rem;">Policies &amp; Guidance</a>
             </div>
@@ -276,7 +276,7 @@ function showDivs(n) {
       </div>
     </footer>
       <div id="terms" class="overlay-container">
-			<h3 id="terms-btn-close" class="overlay-btn-close btn-policy">&times;</h3>
+			<h3 id="terms1-btn-close" class="overlay-btn-close btn-policy">&times;</h3>
 			<div class="overlay-content o-px">
 				<div class="container">
 					<div class="row">
